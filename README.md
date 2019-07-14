@@ -1,5 +1,3 @@
-# Análise dos microdados do ENEM
-
 Esse repositório foi criado para a série de vídeos de análise de dados do canal [Programação Dinâmica](http://youtube.com/programacaodinamica).
 
 ## [Análise de dados #1 | Você sabe extrair informações de dados?](https://youtu.be/RlGOaSPFtXc)
